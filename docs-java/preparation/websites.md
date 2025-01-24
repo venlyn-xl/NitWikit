@@ -54,6 +54,7 @@ GitHub界面是全英文，可以尝试安装油猴汉化插件：https://github
 1. 魔法
 2. [改hosts](https://www.cnblogs.com/eudaimonia/p/16001981.html#1034247326)
 3. [Watt Toolkit](https://steampp.net/)：下载安装完成后，在左侧侧边栏切换到**网络加速**，点击**平台加速(免费)**，往下翻勾上GitHub，然后点击**一键加速**，随后就可以正常访问GitHub了
+4. 将github.com改为github.site
 <!--[点击此处](https://cn.bing.com/search?q=%E8%BF%9E%E4%B8%8D%E4%B8%8AGitHub%E6%80%8E%E4%B9%88%E5%8A%9E)-->
 
 </details>
